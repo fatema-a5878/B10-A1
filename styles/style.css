@@ -176,3 +176,37 @@ nav > .resume:hover{
 .cart-1-content > button > a:hover{
     color: white;
 }
+/* Inspiration Section */
+.inspiration > h2{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.inspiration > p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    margin-bottom: 48px;
+}
+.out-video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.out-video > iframe{
+    width: 1076px;
+    height: 550px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 151px;
+}
