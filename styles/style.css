@@ -93,3 +93,86 @@ nav > .resume:hover{
     border: 1px solid black;
     color: black;
 }
+/* Section 1 - Why Web Development */
+.sec1{
+    height: 1393px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    margin: 154px 200px 90px;
+}
+.s1-content > h2{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+    padding-top: 80px;
+}
+.s1-content > p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    margin-bottom: 48px;
+    margin: 0px 240px 48px;
+}
+/* Cart 1 */
+.cart-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    margin: 0px 97px 32px;
+    padding: 48px;
+}
+.cart-1-content > h2{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-bottom: 16px;
+}
+.cart-1-content > p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;    
+    font-weight: 400;
+    line-height: 26px;  
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    padding-bottom: 32px;
+}
+.cart-1-content > button > a{
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+}
+.cart-1-content > button{
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding: 12px 20px 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    cursor: pointer;
+}
+.cart-1-content > button:hover{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.cart-1-content > button > a:hover{
+    color: white;
+}
