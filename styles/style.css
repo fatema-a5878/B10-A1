@@ -272,6 +272,9 @@ nav > .resume:hover{
     letter-spacing: 0%;
     text-align: left;
 }
+.html-container > a:hover{
+    color: blue;
+}
 /* CSS */
 .css-container{
     border-radius: 16px;
@@ -308,6 +311,9 @@ nav > .resume:hover{
     letter-spacing: 0%;
     text-align: left;
 }
+.css-container > a:hover{
+    color: blue;
+}
 /* JS */
 .js-container{
     border-radius: 16px;
@@ -343,6 +349,9 @@ nav > .resume:hover{
     line-height: 19px;
     letter-spacing: 0%;
     text-align: left;
+}
+.js-container > a:hover{
+    color: blue;
 }
 /* Next Target Section */
 .nxt-target > h2{
@@ -552,4 +561,20 @@ nav > .resume:hover{
     background: rgb(255, 255, 255);
     border: none;
     cursor: pointer;
+}
+/* Footer Section */
+footer{
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    padding: 32px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.f-content > p{
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
 }
