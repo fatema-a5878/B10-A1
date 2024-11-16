@@ -210,3 +210,137 @@ nav > .resume:hover{
     padding: 24px;
     margin-bottom: 151px;
 }
+/* Current Target Section */
+.target > h2{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.target > p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    margin-bottom: 48px;
+}
+.cart-container{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin: 0px 400px 111px;
+}
+/* HTML */
+.html-container{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+}
+.html-container > img{
+    margin-bottom: 32px;
+}
+.html-container > h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.html-container > p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin-bottom: 24px;
+}
+.html-container > a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;   
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+/* CSS */
+.css-container{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+}
+.css-container > img{
+    margin-bottom: 32px;
+}
+.css-container > h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.css-container > p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin-bottom: 24px;
+}
+.css-container > a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;   
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+/* JS */
+.js-container{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+}
+.js-container > img{
+    margin-bottom: 32px;
+}
+.js-container > h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.js-container > p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin-bottom: 24px;
+}
+.js-container > a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;   
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
